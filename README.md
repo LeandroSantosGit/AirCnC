@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
     <img alt="Aircnc" title="#Aircnc" src=".github/logo.png" width="250px" />
 </h1>
 
@@ -21,7 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Socket.io](https://socket.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [Mongo](https://www.mongodb.com/)
-- [Expo](https://expo.io/)
 
 ## 🔖 Layout
 
