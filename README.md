@@ -18,8 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React-Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-- [Socket.io]()
-- [express]
+- [Socket.io](https://socket.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Mongo](https://www.mongodb.com/)
+- [Expo](https://expo.io/)
 
 ## 🔖 Layout
 
